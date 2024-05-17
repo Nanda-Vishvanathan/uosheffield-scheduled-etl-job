@@ -22,7 +22,7 @@ def lambda_handler(event, context):
             logger.info("Successfully invoked Customer & Order processing API")
             customer_list = []
             json_data = response.json()
-            # Processing Json response.
+            # Processing Json response from API invocation
             for customer in json_data:
                 # Concatenating the first name and surname
                 if customer['status'] == 'active':
