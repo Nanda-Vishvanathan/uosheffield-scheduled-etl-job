@@ -19,7 +19,8 @@
 
 **Design Approach:**
 
-![image](https://github.com/Nanda-Vishvanathan/uosheffield-scheduled-etl-job/assets/59757238/2ec99f02-8fac-4af0-8ade-1a7451fe1473)
+![image](https://github.com/Nanda-Vishvanathan/uosheffield-scheduled-etl-job/assets/59757238/2447c742-66bf-458a-80dc-258ff54d3fc4)
+
 
 
 **Code Walkthrough:**
