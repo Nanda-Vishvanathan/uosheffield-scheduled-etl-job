@@ -25,7 +25,7 @@
 
 **Code Walkthrough:**
 
-As part of task 2, this project contains the code for an AWS Lambda function that is a scheduled job. As of now this lambda is scheduled to run once a day. However, based on the requirements it can be modified to be invoked by a REST API or based on any other trigger.This Lambda function invokes ***<aws:>/customers*** api to query all the active customers, concatenates their firstname and surname and returns the processed data to the target API i.e., ***https://postman-echo.com/post*** <br>
+As part of task 3, This project contains the code for an AWS Lambda function that runs as a scheduled job. Currently, the Lambda function is configured to execute once a day. However, it can be modified to be triggered by a REST API call or any other event-based trigger based on the requirements. The Lambda function fetches customer data by invoking the ***<aws:>/customers*** API, processes active customer data by concatenating their first name and surname, and finally, sends the processed data to ***https://postman-echo.com/post endpoint***.
 
 **Getting Started- Please do the following**
 
