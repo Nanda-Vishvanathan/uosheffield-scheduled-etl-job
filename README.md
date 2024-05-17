@@ -28,6 +28,8 @@ As part of task 2, this project contains the code for an AWS Lambda function tha
 
 **Code Use**
 
+Please do the following
+
 Clone the code:<br>
 ***git clone https://github.com/Nanda-Vishvanathan/uosheffield-scheduled-etl-job.git<br>***
 
