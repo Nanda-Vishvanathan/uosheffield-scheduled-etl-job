@@ -48,4 +48,4 @@ please install the requirements.txt from the folder<br>
 Zip the code using the following command:<br>
 ***zip -r scheduled_function-retrieval.zip .<br>***
 
-Deploy manually, s3 or using CLI.
+Deploy/Push the zip file manually, s3 or using CLI.
