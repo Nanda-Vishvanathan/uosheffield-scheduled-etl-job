@@ -26,9 +26,8 @@
 
 As part of task 2, this project contains the code for an AWS Lambda function that is a scheduled job. As of now this lambda is scheduled to run once a day. However, based on the requirements it can be modified to be invoked by a REST API or based on any other trigger.This Lambda function invokes ***<aws:>/customers*** api to query all the active customers, concatenates their firstname and surname and returns the processed data to the target API i.e., ***https://postman-echo.com/post*** <br>
 
-**Code Use**
+**Getting Started- Please do the following**
 
-Please do the following
 
 Clone the code:<br>
 ***git clone https://github.com/Nanda-Vishvanathan/uosheffield-scheduled-etl-job.git<br>***
